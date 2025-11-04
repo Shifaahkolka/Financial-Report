@@ -1,6 +1,6 @@
 Financial Report Dashboard (Power BI)
 
-This repository contains a *Power BI Financial Dashboard* created using sales and profit data across different products, segments, and countries.
+This repository contains a Power BI Financial Dashboard created using sales and profit data across different products, segments, and countries.
  🧾 Project Overview
 
 The dashboard provides a detailed financial summary including:
